@@ -1,1 +1,27 @@
+### JupyterNotebooks
+# gitignore template for Jupyter Notebooks
+# website: http://jupyter.org/
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+### Environments
+.env
 .venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+### Operating System Files
+.DS_Store
+*.desktop
+desktop.ini
+
+### IDE Configuration
+# IDE Configuration
+.idea/
+.vscode/
+
+### Datset
+/dataset/
