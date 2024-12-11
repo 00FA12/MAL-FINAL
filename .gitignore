@@ -25,3 +25,8 @@ desktop.ini
 
 ### Datset
 /dataset/
+
+### Project Specific
+# Generated files and directories
+/data/regex_test.txt
+/paths.env
